@@ -1,2 +1,2 @@
-# ml_knn-
+# ml_knn_digit_recognition
 k近邻算法识别手写数字
